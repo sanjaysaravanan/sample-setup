@@ -1,3 +1,5 @@
 Discussed about VsCode and Git installations
 
 Adding a new line to understanding how modifications work in git
+
+doing a change from local laptop
